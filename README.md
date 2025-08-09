@@ -30,5 +30,7 @@ It features a Sudoku generator and solver based on a backtracking algorithm.
 
 Simply start the game by running the start.bat file — the game will launch automatically.
 
+Alternatively, you can run the Python script directly:
+
 ```bash
 python sudoku.py
