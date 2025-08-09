@@ -28,9 +28,32 @@ It features a Sudoku generator and solver based on a backtracking algorithm.
 
 ## Usage
 
-Simply start the game by running the start.bat file — the game will launch automatically.
+### Running the game with `start.bat`
 
-Alternatively, you can run the Python script directly:
+You can start the game easily by double-clicking the `start.bat` file, which will launch the game automatically.
 
-```bash
-python sudoku.py
+---
+
+### Running the game manually via Command Prompt (CMD)
+
+1. Open **Command Prompt** (CMD).
+
+2. Navigate to the folder where the game files are located. For example, if your game folder is in `C:\Games\Sudoku`, type:
+
+    ```cmd
+    cd C:\Games\Sudoku
+    ```
+    and press **Enter**.
+
+3. Run the Python script by typing:
+
+    ```cmd
+    python sudoku.py
+    ```
+    and press **Enter**.
+   
+Make sure Python is installed and added to your system’s PATH so that the `python` command works.
+
+---
+
+Enjoy playing!
